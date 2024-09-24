@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mathias
-I'm A French engineering student in computer science at ENSEIRB-MATMECA passionate about web development. I'm also very interested in ux / ui design, subjects that I'm trying to learn on my own in my spare time.
+I'm A French engineering student in computer science at ENSEIRB-MATMECA passionate about web development. I'm also very interested in UX/UI design, subjects that I'm trying to learn on my own in my spare time.
 
 ## 🌐 Where to find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathias-rosa) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mathias-rosa.fr)
